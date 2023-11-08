@@ -1,3 +1,4 @@
-[Biografia](C:\Users\Hersh\OneDrive\Documentos\GitHub\Markdown\Biografía)
+[Biografia](Biografia)
 
-[Albums](C:\Users\Hersh\OneDrive\Documentos\GitHub\Markdown\Albums)
+[Albums](Albums)
+
